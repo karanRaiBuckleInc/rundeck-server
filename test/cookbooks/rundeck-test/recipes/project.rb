@@ -1,4 +1,4 @@
-include_recipe 'rundeck-server'
+include_recipe 'rundeck-server-1.7.3'
 
 rundeck_server_project 'test-project-ssh' do
   executor :ssh
