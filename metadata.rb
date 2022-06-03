@@ -1,4 +1,4 @@
-name             'rundeck-server'
+name             'rundeck-server-1.7.3'
 maintainer       'Criteo'
 maintainer_email 'use_github_issues@criteo.com'
 license          'Apache-2.0'
