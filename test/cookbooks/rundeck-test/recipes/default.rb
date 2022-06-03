@@ -1,4 +1,4 @@
-include_recipe 'rundeck-server'
+include_recipe 'rundeck-server-1.7.3'
 
 # Create an API token for the admin user
 file ::File.join(node['rundeck_server']['confdir'], 'token.properties') do
